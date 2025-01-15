@@ -1,0 +1,53 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build directories
+/build/
+/bin/
+/lib/
+/log/
+/logs/
+/obj/
+/out/
+
+# IDE specific files
+.idea/
+*.code-workspace
+
+# Other
+*.log
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
