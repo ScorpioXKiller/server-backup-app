@@ -39,6 +39,7 @@
 
 # IDE specific files
 .idea/
+.vs
 *.code-workspace
 
 # Other
